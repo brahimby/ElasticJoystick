@@ -1,0 +1,34 @@
+{
+    "name": "CustomInput",
+    "maps": [
+        {
+            "name": "Controls",
+            "id": "7d71c223-05e7-4a5c-99bf-63fad9fa8a4f",
+            "actions": [
+                {
+                    "name": "ScreenTouch",
+                    "type": "Button",
+                    "id": "ced33b59-46e0-4afb-910d-9e5facefcac3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Hold",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "452cde17-9954-4145-a73d-f7f997f112a6",
+                    "path": "<Pointer>/press",
+                    "interactions": "Hold",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ScreenTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

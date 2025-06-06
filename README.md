@@ -64,15 +64,6 @@ A slick, responsive joystick made for Unity UI that **stretches, rotates**, and 
 
 ---
 
-## 🤝 Contributing
-
-Feel free to fork and make pull requests. This system is simple but could be extended with:
-- Two-axis thresholding
-- Vibration feedback
-- Snap-to-direction support
-- Radial menus, etc.
-
----
 
 ## 🧠 Author
 
